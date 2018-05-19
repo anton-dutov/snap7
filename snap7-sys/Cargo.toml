@@ -6,7 +6,7 @@ license     = "MIT"
 description = "Rust bindings to snap7 library"
 repository  = "https://github.com/hal-rs/snap7"
 categories  = ["hardware-support"]
-keywords    = ["HAL", "PLC", "Siemens S7"]
+keywords    = ["HAL", "PLC", "S7"]
 
 build       = "build.rs"
 
