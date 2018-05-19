@@ -3,7 +3,7 @@ name        = "snap7-sys"
 version     = "0.1.0"
 authors     = ["hal-rs initiative"]
 license     = "MIT"
-description = ""
+description = "Rust bindings to snap7 library"
 repository  = "https://github.com/hal-rs/snap7"
 categories  = ["HAL", "PLC", "Siemens S7"]
 
