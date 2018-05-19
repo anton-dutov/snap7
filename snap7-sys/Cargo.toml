@@ -1,9 +1,9 @@
 [package]
 name        = "snap7-sys"
-version     = "0.1.0"
+version     = "0.1.1"
 authors     = ["hal-rs initiative"]
 license     = "MIT"
-description = "Rust bindings to snap7 library"
+description = "Bindings to snap7 library"
 repository  = "https://github.com/hal-rs/snap7"
 categories  = ["hardware-support"]
 keywords    = ["HAL", "PLC", "S7"]
