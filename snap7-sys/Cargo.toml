@@ -10,7 +10,7 @@ categories  = ["HAL", "PLC", "Siemens S7"]
 build       = "build.rs"
 
 [build-dependencies]
-bindgen = "*"
+bindgen = "0.37"
 
 [dependencies]
 libc = "0.2"
