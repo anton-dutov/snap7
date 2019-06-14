@@ -1,5 +1,4 @@
 #[macro_use]
-extern crate bitflags;
 extern crate snap7_sys;
 
 use snap7_sys::*;
