@@ -15,6 +15,7 @@ fn main() {
         .whitelist_function("Cli_GetParam")
         .whitelist_function("Cli_SetParam")
         .whitelist_function("Cli_ConnectTo")
+        .whitelist_function("Cli_GetConnected")
         .whitelist_function("Cli_Disconnect")
         //
         .whitelist_function("Cli_ReadArea")
