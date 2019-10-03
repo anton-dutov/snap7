@@ -1,6 +1,6 @@
 [package]
 name        = "snap7-sys"
-version     = "0.1.3"
+version     = "0.1.4"
 authors     = ["hal-rs initiative"]
 license     = "MIT"
 description = "Bindings to snap7 library"
@@ -11,7 +11,7 @@ keywords    = ["HAL", "PLC", "S7"]
 build       = "build.rs"
 
 [build-dependencies]
-bindgen = "0.49.2"
+bindgen = "0.51.1"
 
 [dependencies]
 libc = "0.2"
