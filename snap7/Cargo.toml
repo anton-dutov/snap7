@@ -1,10 +1,10 @@
 [package]
 name        = "snap7"
 version     = "0.0.1"
-authors     = ["hal-rs initiative"]
+authors     = ["Anton Dutov"]
 license     = "MIT"
 description = "Safe bindings to snap7 library"
-repository  = "https://github.com/hal-rs/snap7"
+repository  = "https://github.com/anton-dutov/snap7"
 categories  = ["hardware-support"]
 keywords    = ["HAL", "PLC", "S7"]
 

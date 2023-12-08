@@ -1,20 +1,21 @@
 [package]
 name        = "snap7-sys"
-version     = "0.1.4"
-authors     = ["hal-rs initiative"]
+version     = "0.1.5"
+authors     = ["Anton Dutov"]
 license     = "MIT"
 description = "Bindings to snap7 library"
-repository  = "https://github.com/hal-rs/snap7"
+repository  = "https://github.com/anton-dutov/snap7"
 categories  = ["hardware-support"]
 keywords    = ["HAL", "PLC", "S7"]
 
 build       = "build.rs"
 
 [build-dependencies]
-bindgen = "0.51.1"
+bindgen    = "0.69"
 
 [dependencies]
 libc = "0.2"
+libloading = "0.8"
 
 #[[example]]
 #name = "simple"
